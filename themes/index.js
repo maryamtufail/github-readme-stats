@@ -444,6 +444,18 @@ export const themes = {
     border_color: "e1bc29",
     bg_color: "2b2d40",
   },
+   enchanted_forest: {
+    title_color: "78c091",
+    icon_color: "a7c080",
+    text_color: "d9b96f",
+    bg_color: "1f2f16",
+  },
+  choco_coral: {
+    title_color: "f8f1d3",
+    icon_color: "ffb997",
+    text_color: "eecc00",
+    bg_color: "5c3c30",
+  }
 };
 
 export default themes;
